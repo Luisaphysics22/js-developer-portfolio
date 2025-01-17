@@ -42,6 +42,10 @@
       {
         "name": "VSCode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
       }
     ],
     "softSkills": [
