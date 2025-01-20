@@ -64,13 +64,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex em JavaScript",
+      "url": "https://github.com/Luisaphysics22/luisa_pokedex.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de Jogo da Palavra Secreta em Python",
+      "url": "https://github.com/Luisaphysics22/secret_word_game.git",
       "github": true
     }
   ],
