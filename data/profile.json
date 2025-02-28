@@ -64,31 +64,36 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex em JavaScript",
+      "name": "Creating a Pokedex in JavaScript",
       "url": "https://github.com/Luisaphysics22/luisa_pokedex.git",
       "github": true
     },
     {
-      "name": "Criação de Jogo da Palavra Secreta em Python",
+      "name": "Creating a Secret Word Game",
       "url": "https://github.com/Luisaphysics22/secret_word_game.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
+      "name": "eBay Seller / Self-Employed",
+      "period": "Apr 2024 - Present",
+      "description": "Managed an online retail business, overseeing customer service, payments, returns, pricing strategies, stock control, and financial reconciliation to ensure customer satisfaction."
+    },
+    {
       "name": "Warehouse Operative / Jark Recruitment",
       "period": "May 2024 - Jun 2024",
-      "description": "Organização, logística e trabalho em equipe."
+      "description": "Organisation, logistics, and teamwork."
     },
     {
       "name": "Cashier / KFC UK",
       "period": "Apr 2023 - Jan 2024",
-      "description": "Atendimento ao cliente, organização, trabalho em equipe e lidar com sistemas."
+      "description": "Customer service, organisation, teamwork, and handling systems."
     },
     {
       "name": "Teaching Intern /  Colégio QI",
       "period": "Sep 2017 - Oct 2019",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ensinando alunos a lidar com seus problemas de física."
+      "description": "Incredible years alongside wonderful people, teaching students how to tackle their physics problems."
     }
   ]
 }
