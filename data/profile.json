@@ -64,12 +64,32 @@
   ],
   "portfolio": [
     {
-      "name": "Creating a Pokedex in JavaScript",
+      "name": "Credit Card Validator in JavaScript",
+      "url": "https://github.com/Luisaphysics22/credit_card_validator",
+      "github": true
+    },
+    {
+      "name": "Microsoft Azure Translator 2 in 1 with Python and Azure OpenAI",
+      "url": "https://github.com/Luisaphysics22/tradutor_artigos_tecnico_azure_ai_luisa_lemos",
+      "github": true
+    },
+    {
+      "name": "Pokedex in JavaScript",
       "url": "https://github.com/Luisaphysics22/luisa_pokedex.git",
       "github": true
     },
     {
-      "name": "Creating a Secret Word Game",
+      "name": "Shopping List in Python",
+      "url": "https://github.com/Luisaphysics22/shopping_list",
+      "github": true
+    },
+    {
+      "name": "Banking System in Python",
+      "url": "https://github.com/Luisaphysics22/new_banking_system",
+      "github": true
+    },
+    {
+      "name": "Secret Word Game in Python",
       "url": "https://github.com/Luisaphysics22/secret_word_game.git",
       "github": true
     }
