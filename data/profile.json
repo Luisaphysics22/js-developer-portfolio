@@ -64,9 +64,24 @@
   ],
   "portfolio": [
     {
+      "name": "DecoWise Project in Python with CustomTkinter",
+      "url": "https://github.com/Luisaphysics22/decowise_project.git",
+      "github": true
+    },
+    {
+      "name": "Mario Kart.JS with Node.JS",
+      "url": "https://github.com/Luisaphysics22/project_mario_kart_node.git",
+      "github": true
+    },
+    {
       "name": "Credit Card Validator in JavaScript",
       "url": "https://github.com/Luisaphysics22/credit_card_validator",
       "github": true
+    },
+    {
+      "name": "Magic World Game version 2.0",
+      "url": "https://scratch.mit.edu/projects/1105642908",
+      "github": false
     },
     {
       "name": "Microsoft Azure Translator 2 in 1 with Python and Azure OpenAI",
