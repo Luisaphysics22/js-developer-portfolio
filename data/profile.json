@@ -63,6 +63,11 @@
   ],
   "portfolio": [
     {
+      "name": "SkySentinel",
+      "url": "https://github.com/skysentinelazureai/skysentinel.git",
+      "github": true
+    },
+    {
       "name": "DecoWise Project in Python with CustomTkinter",
       "url": "https://github.com/Luisaphysics22/decowise_project.git",
       "github": true
