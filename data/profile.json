@@ -63,6 +63,11 @@
   ],
   "portfolio": [
     {
+      "name": "Tax App in Excel",
+      "url": "https://github.com/Luisaphysics22/excel_tax_app.git",
+      "github": true
+    },
+    {
       "name": "SkySentinel in Python and Azure",
       "url": "https://github.com/skysentinelazureai/skysentinel.git",
       "github": true
