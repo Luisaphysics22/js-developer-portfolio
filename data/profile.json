@@ -57,10 +57,9 @@
     ]
   },
   "languages": [
-    "Brazilian Portuguese",
+    "Brazilian Portuguese (Native)",
     "English (Fluent)",
-    "Spanish (Beginner)",
-    "French (Beginner)"
+    "Italian (Beginner)"
   ],
   "portfolio": [
     {
@@ -111,14 +110,15 @@
   ],
   "professionalExperience": [
     {
-      "name": "eBay Seller / Self-Employed",
-      "period": "Apr 2024 - Present",
-      "description": "Managed an online retail business, overseeing customer service, payments, returns, pricing strategies, stock control, and financial reconciliation to ensure customer satisfaction."
+      "name": "Freelance Database Developer & Junior DBA / Liverpool",
+      "period": "Apr 2025 - Present",
+      "description": "Designed and implemented a MySQL database for stock, sales, and expiry tracking; managed data accuracy, reports, and system maintenance."
     },
     {
-      "name": "Warehouse Operative / Jark Recruitment",
-      "period": "May 2024 - Jun 2024",
-      "description": "Organisation, logistics, and teamwork."
+      "name": "eBay Seller / Self-Employed",
+      "period": "Apr 2024 - Jul 2025",
+      "description": "Managed product listings and tracked sales performance using Microsoft Excel to monitor stock
+levels, calculate profits, and analyse customer demand."
     },
     {
       "name": "Cashier / KFC UK",
